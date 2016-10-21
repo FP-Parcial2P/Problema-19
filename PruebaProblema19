@@ -1,0 +1,7 @@
+run:
+Introduce el valor de un angulo: 
+85
+El seno de 85.0es igual a: -0.1760756199485871
+El coseno de 85.0es igual a: -0.9843766433940419
+La tangente de 85.0es igual a: 0.17887017243876716
+BUILD SUCCESSFUL (total time: 5 seconds)
